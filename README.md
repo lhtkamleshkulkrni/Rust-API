@@ -1,11 +1,13 @@
-# rust-microservice-template
+# Rust-API
  
-### Under constant development & improvements
-### What is this repository for? ###
+### Usages ###
 
-* Microservice template for quick start
-* Version 1.0
-* [Github Repository](https://github.com/ayushkul/rust-microservice-template)
+* Rust api -  
+* Create User
+* Get User details
+* Get All User details
+* Update User
+* Delete User
 
 ### How do I get set up? ###
 
@@ -13,16 +15,6 @@
 * run `cargo run` : It will start your server on your local machine
 * Configuration : `config/env` directory contains files to define environment specific variables
 * Dependencies : Defined under `Cargo.toml`
-* Database configuration : Defined under `config/dbConnection`
 * Deployment instructions : Docker based deployment, Dockerfile is there in parent directory
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
